@@ -1,0 +1,15 @@
+/Users/mimisasouvanh/Projects/TipTracker/TipTracker/obj/iPhone/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/mimisasouvanh/Projects/TipTracker/TipTracker/obj/iPhone/Debug/ibtool/LaunchScreen.nib
+/Users/mimisasouvanh/Projects/TipTracker/TipTracker/obj/iPhone/Debug/ibtool/MainStoryboard_iPhone.storyboardc/Info.plist
+/Users/mimisasouvanh/Projects/TipTracker/TipTracker/obj/iPhone/Debug/ibtool/MainStoryboard_iPhone.storyboardc/UIViewController-vXZ-lx-hvc.nib
+/Users/mimisasouvanh/Projects/TipTracker/TipTracker/obj/iPhone/Debug/ibtool/MainStoryboard_iPhone.storyboardc/vXZ-lx-hvc-view-kh9-bI-dsS.nib
+/Users/mimisasouvanh/Projects/TipTracker/TipTracker/obj/iPhone/Debug/ibtool/MainStoryboard_iPad.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+/Users/mimisasouvanh/Projects/TipTracker/TipTracker/obj/iPhone/Debug/ibtool/MainStoryboard_iPad.storyboardc/Info.plist
+/Users/mimisasouvanh/Projects/TipTracker/TipTracker/obj/iPhone/Debug/ibtool/MainStoryboard_iPad.storyboardc/UIViewController-BYZ-38-t0r.nib
+/Users/mimisasouvanh/Projects/TipTracker/TipTracker/obj/iPhone/Debug/actool/partial-info.plist
+/Users/mimisasouvanh/Projects/TipTracker/TipTracker/obj/iPhone/Debug/actool/asset-manifest.plist
+/Users/mimisasouvanh/Projects/TipTracker/TipTracker/obj/iPhone/Debug/
+/Users/mimisasouvanh/Projects/TipTracker/TipTracker/bin/iPhone/Debug/TipTracker.exe.mdb
+/Users/mimisasouvanh/Projects/TipTracker/TipTracker/bin/iPhone/Debug/TipTracker.exe
+/Users/mimisasouvanh/Projects/TipTracker/TipTracker/obj/iPhone/Debug/TipTracker.exe
+/Users/mimisasouvanh/Projects/TipTracker/TipTracker/obj/iPhone/Debug/TipTracker.exe.mdb
